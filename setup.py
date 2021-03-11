@@ -1,4 +1,4 @@
-from distutils.core import setup
+from setuptools import setup
 from distutils.extension import Extension
 
 # To install library to Python site-packages run "python setup.py install"
